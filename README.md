@@ -10,7 +10,7 @@
     ☕  coffee → code → repeat
 </pre>
 <br>    
-<img src="assests/Cat.gif" height="40" />
+<img src="assests/Cat.gif" height="60" />
 <br>
 <p align="center">
 
